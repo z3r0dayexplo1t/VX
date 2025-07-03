@@ -341,6 +341,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Made with ❤️ by [Your Name]**
+**Made with ❤️ by Sam**
 
 > If you find this project useful, please consider giving it a ⭐ on GitHub!
