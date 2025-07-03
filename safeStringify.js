@@ -67,3 +67,5 @@ const stringifyCache = new Map()
         }
         return stringifyCache.get(value) // Return the cached stringified value
     }
+
+module.exports = {safeStringify}
